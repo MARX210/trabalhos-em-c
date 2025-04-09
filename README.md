@@ -1,58 +1,91 @@
-Projetos Acadêmicos em Linguagem C
+# 💻 TRABALHOS ACADÊMICOS EM C
 
-Este repositório contém projetos desenvolvidos durante minha formação acadêmica, utilizando a linguagem C no ambiente Code::Blocks. Cada projeto tem foco em exercitar estruturas de controle, vetores, matrizes, entrada/saída de dados e menus interativos.
+Este repositório contém diversos projetos desenvolvidos em linguagem C como parte do aprendizado acadêmico. Todos foram feitos e testados no ambiente **Code::Blocks**, focando em lógica de programação, estruturas condicionais, vetores, matrizes e entrada de dados.
 
-🔗 Links para Download e Visualização dos Projetos
+---
 
-Cada pasta abaixo representa um projeto com o código-fonte (main.c) e um README.md explicando o que foi feito:
+## 📦 Organização dos Projetos
 
-1. Projeto: Comparador de Números
+Cada projeto está separado em uma pasta própria contendo:
 
-Objetivo: Identificar o maior e o menor entre três números informados pelo usuário.Técnicas: Uso de if-else, scanf e printf.
-📁 Projeto_1_Comparador_de_Numeros
+- `main.c`: O código-fonte do projeto
+- `README.md`: Descrição do projeto, objetivo e instruções
 
-2. Projeto: Entrada de Dados e Variáveis
+---
 
-Objetivo: Demonstrar diferentes tipos de entrada em C (int, float, char, string).Técnicas: Macros, scanf, limpeza de buffer e variáveis básicas.
-📁 Projeto_2_Entrada_de_Dados_e_Variaveis
+## 📂 Lista de Projetos
 
-3. Projeto: Subtração de Matrizes com Vetor Resultante
+### 🧮 Projeto 1 - Comparador de Números
+**Objetivo:** Identificar o maior e o menor entre três números inteiros informados pelo usuário.
 
-Objetivo: Subtrair duas matrizes e armazenar os resultados em um vetor.Técnicas: Manipulação de matrizes e vetores, controle de índices.
-📁 Projeto_3_Subtracao_de_Matrizes
+📁 [`Projeto_1_Comparador_de_Numeros`](./Projeto_1_Comparador_de_Numeros)
 
-4. Projeto: Menu Interativo com Matrizes e Vetores
+---
 
-Objetivo: Criar um menu com operações matemáticas sobre uma matriz 6x5.Técnicas: switch-case, for, do-while, uso de vetores para armazenar potências e raízes.
-📁 Projeto_4_Menu_Operacoes_Matriz_Vetores
+### 🔢 Projeto 2 - Entrada de Dados e Variáveis
+**Objetivo:** Demonstrar diferentes tipos de entrada de dados em C (int, float, double, char e string).
 
-5. Projeto: Estrutura de Declarações (Incompleto)
+📁 [`Projeto_2_Entrada_de_Dados_e_Variaveis`](./Projeto_2_Entrada_de_Dados_e_Variaveis)
 
-Objetivo: Esboço de um programa com declarações e entrada de dados.Status: Incompleto.
-📁 Projeto_5_Incompleto_Declaracoes
+---
 
-6. Projeto: Multiplicação de Vetor por Matriz
+### ➖ Projeto 3 - Subtração de Matrizes com Vetor Resultante
+**Objetivo:** Subtrair duas matrizes e armazenar os resultados em um vetor.
 
-Objetivo: Multiplicar elementos de uma matriz 3x3 por um vetor com 9 elementos.Técnicas: Uso de while, operações matriciais e controle de índices.
-📁 Projeto_6_Multiplicacao_Vetor_Matriz
+📁 [`Projeto_3_Subtracao_de_Matrizes`](./Projeto_3_Subtracao_de_Matrizes)
 
-7. Projeto: Menu Inicial (Incompleto)
+---
 
-Objetivo: Estrutura de menu inicial com declarações.Status: Incompleto.
-📁 Projeto_7_Menu_Inicial
+### 🧮 Projeto 4 - Menu Interativo com Matrizes e Vetores
+**Objetivo:** Criar um menu que realiza cálculos de raiz e potência cúbica a partir de uma matriz 6x5.
 
-⚙️ Requisitos para Executar
+📁 [`Projeto_4_Menu_Operacoes_Matriz_Vetores`](./Projeto_4_Menu_Operacoes_Matriz_Vetores)
 
-IDE: Code::Blocks
+---
 
-Sistema operacional: Windows, Linux ou outro com suporte ao Code::Blocks
+### 📄 Projeto 5 - Estrutura de Declarações (Incompleto)
+**Objetivo:** Demonstrar estrutura básica de programa com declarações de variáveis e entrada.
 
-✅ Como rodar:
+📁 [`Projeto_5_Incompleto_Declaracoes`](./Projeto_5_Incompleto_Declaracoes)
 
-Abra o Code::Blocks
+---
 
-Crie um novo projeto "Console Application" em C
+### ✖️ Projeto 6 - Multiplicação de Vetor por Matriz
+**Objetivo:** Multiplicar cada elemento de uma matriz 3x3 por um vetor com 9 posições.
 
-Copie o código main.c do projeto desejado
+📁 [`Projeto_6_Multiplicacao_Vetor_Matriz`](./Projeto_6_Multiplicacao_Vetor_Matriz)
 
-Compile e execute (F9)
+---
+
+### 📋 Projeto 7 - Menu Inicial (Incompleto)
+**Objetivo:** Estrutura inicial de menu e opções básicas (sem lógica implementada).
+
+📁 [`Projeto_7_Menu_Inicial`](./Projeto_7_Menu_Inicial)
+
+---
+
+## ⚙️ Como Executar os Projetos
+
+> Todos os projetos foram desenvolvidos usando o **Code::Blocks** (com MinGW).
+
+### ✅ Requisitos:
+- Code::Blocks instalado ([download aqui](https://www.codeblocks.org/downloads/))
+- Sistema Windows
+
+### ▶️ Para rodar:
+1. Abra o Code::Blocks
+2. Vá em `File > New > Project… > Console Application > C`
+3. Copie o conteúdo de `main.c` do projeto desejado
+4. Cole no `main.c` do projeto criado no Code::Blocks
+5. Clique em `Build and Run`
+
+---
+
+## 🧠 Sobre
+
+Estes projetos fazem parte da minha trajetória de aprendizado em programação com C, durante minha formação acadêmica. São exercícios práticos com foco em lógica, entrada de dados, vetores, matrizes e menus interativos.
+
+---
+
+📌 **Desenvolvido por [Marx Vinicius](https://github.com/MARX210)**  
+🚀 Compartilhando conhecimento e prática!
