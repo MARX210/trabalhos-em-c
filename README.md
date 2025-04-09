@@ -18,49 +18,35 @@ Cada projeto está separado em uma pasta própria contendo:
 ### 🧮 Projeto 1 - Comparador de Números
 **Objetivo:** Identificar o maior e o menor entre três números inteiros informados pelo usuário.
 
-📁 [`Projeto_1_Comparador_de_Numeros`](./Projeto_1_Comparador_de_Numeros)
-
 ---
 
 ### 🔢 Projeto 2 - Entrada de Dados e Variáveis
 **Objetivo:** Demonstrar diferentes tipos de entrada de dados em C (int, float, double, char e string).
-
-📁 [`Projeto_2_Entrada_de_Dados_e_Variaveis`](./Projeto_2_Entrada_de_Dados_e_Variaveis)
 
 ---
 
 ### ➖ Projeto 3 - Subtração de Matrizes com Vetor Resultante
 **Objetivo:** Subtrair duas matrizes e armazenar os resultados em um vetor.
 
-📁 [`Projeto_3_Subtracao_de_Matrizes`](./Projeto_3_Subtracao_de_Matrizes)
-
 ---
 
 ### 🧮 Projeto 4 - Menu Interativo com Matrizes e Vetores
 **Objetivo:** Criar um menu que realiza cálculos de raiz e potência cúbica a partir de uma matriz 6x5.
-
-📁 [`Projeto_4_Menu_Operacoes_Matriz_Vetores`](./Projeto_4_Menu_Operacoes_Matriz_Vetores)
 
 ---
 
 ### 📄 Projeto 5 - Estrutura de Declarações (Incompleto)
 **Objetivo:** Demonstrar estrutura básica de programa com declarações de variáveis e entrada.
 
-📁 [`Projeto_5_Incompleto_Declaracoes`](./Projeto_5_Incompleto_Declaracoes)
-
 ---
 
 ### ✖️ Projeto 6 - Multiplicação de Vetor por Matriz
 **Objetivo:** Multiplicar cada elemento de uma matriz 3x3 por um vetor com 9 posições.
 
-📁 [`Projeto_6_Multiplicacao_Vetor_Matriz`](./Projeto_6_Multiplicacao_Vetor_Matriz)
-
 ---
 
 ### 📋 Projeto 7 - Menu Inicial (Incompleto)
 **Objetivo:** Estrutura inicial de menu e opções básicas (sem lógica implementada).
-
-📁 [`Projeto_7_Menu_Inicial`](./Projeto_7_Menu_Inicial)
 
 ---
 
